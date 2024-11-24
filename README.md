@@ -1,1 +1,2 @@
-# namra-academy
+# eduvalt
+# nextjs template by AliThemes
